@@ -33,8 +33,15 @@ header nav {
     width: 800px;
     height: 600px;
     border: 1px solid gray;
-    margin: 20px auto;
+    margin: 20px;
+    background-color: white;
+    float: left;
 }
+
+#about-me h2{
+    padding: 15px auto;
+}
+
 div h2 {
     color: darkviolet;
     font-family: 'Baloo Chettan 2', cursive;

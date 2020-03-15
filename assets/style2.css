@@ -1,0 +1,46 @@
+body {
+    background-color: lightgray;
+}
+
+header {
+    max-height: 70px;
+    background-color: white;
+    overflow: auto;
+}
+
+header h1 {
+    font-family: 'Baloo Chettan 2', cursive;
+    color: white;
+    float:left;
+    padding: 30px auto;
+    margin-left: 30px;
+    font-size: 40px;
+    background-color: darkviolet;
+}
+
+header nav {
+    font-family: 'Quicksand', sans-serif;
+    color: lightslategrey;
+    padding: 10px;
+    list-style: none;
+    text-align: center;
+    font-size: 18px;
+    width: 33.3%;
+    display: inline-block;
+}
+
+.form {
+    width: 800px;
+    height: 600px;
+    border: 1px solid gray;
+    margin: 20px;
+    background-color: white;
+    padding: 15px;
+    float: left;
+}
+
+.form h2 {
+    color: darkviolet;
+    font-family: 'Baloo Chettan 2', cursive;
+    padding: 10px;
+}
