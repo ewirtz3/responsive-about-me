@@ -1,3 +1,7 @@
+body {
+    background-color: lightgray;
+}
+
 header {
     max-height: 70px;
     background-color: white;
@@ -22,4 +26,28 @@ header nav {
     text-align: center;
     font-size: 18px;
     width: 33.3%;
+    display: inline-block;
+}
+
+#about-me {
+    width: 800px;
+    height: 600px;
+    border: 1px solid gray;
+    margin: 20px auto;
+}
+div h2 {
+    color: darkviolet;
+    font-family: 'Baloo Chettan 2', cursive;
+}
+
+div p {
+    color: black;
+    font-family: 'Quicksand', sans-serif;
+    float: left;
+}
+
+div img {
+    border-radius: 100%;
+    max-height: 400px;
+    border: solid orange;
 }
