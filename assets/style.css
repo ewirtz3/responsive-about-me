@@ -1,0 +1,11 @@
+header {
+    max-height: 70px;
+    background-color: teal;
+}
+
+header h1 {
+    font-family: 'Baloo Chettan 2', cursive;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
