@@ -1,11 +1,25 @@
 header {
     max-height: 70px;
-    background-color: teal;
+    background-color: white;
+    overflow: auto;
 }
 
 header h1 {
     font-family: 'Baloo Chettan 2', cursive;
     color: white;
+    float:left;
+    padding: 30px auto;
+    margin-left: 30px;
+    font-size: 40px;
+    background-color: darkviolet;
+}
+
+header nav {
+    font-family: 'Quicksand', sans-serif;
+    color: lightslategrey;
+    padding: 10px;
+    list-style: none;
     text-align: center;
-    padding: 15px;
+    font-size: 18px;
+    width: 33.3%;
 }
