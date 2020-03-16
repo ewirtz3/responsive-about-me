@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    max-height: 70px;
+    max-height: 80px;
     background-color: white;
     overflow: auto;
 }
@@ -12,7 +12,7 @@ header h1 {
     font-family: 'Baloo Chettan 2', cursive;
     color: white;
     float:left;
-    padding: 30px auto;
+    padding: 10px;
     margin-left: 30px;
     font-size: 40px;
     background-color: darkviolet;
