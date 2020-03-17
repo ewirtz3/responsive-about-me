@@ -51,7 +51,7 @@ div h2 {
     font-family: 'Baloo Chettan 2', cursive;
 }
 
-div p {
+#blurb {
     color: black;
     font-family: 'Quicksand', sans-serif;
     float: right;
