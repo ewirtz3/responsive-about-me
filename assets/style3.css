@@ -46,10 +46,18 @@ header nav {
     background-color: white;
 }
 
-.col-md-4 {
+.grid {
+    display: grid;
+    width: 600px;
+    height: 500px;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 200px 200px 200px;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
     margin: 10px;
-    position: relative;
-    z-index: 1;
 }
 
 .text-block {
