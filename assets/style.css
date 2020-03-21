@@ -61,3 +61,15 @@ div img {
     border: solid orange;
     float: left;
 }
+
+@media screen and (max-width: 768px)
+    /* for tablets */
+    [class*="col-"] {
+
+    }
+@media screen and (max-width: 640px) {
+    /* for mobile phones */
+    #about-me, #blurb, img {
+        width: 100%;
+    }
+}
