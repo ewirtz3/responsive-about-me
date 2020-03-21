@@ -10,7 +10,6 @@ body {
     max-height: 80px;
     background-color: white;
     overflow: auto;
-    width: 100%;
 }
 
 .navbar h1 {
