@@ -10,12 +10,14 @@
     <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan+2|Quicksand&display=swap" rel="stylesheet">
 </head>
 <body class="wrapper">
-    <header class="navbar d-flex flex-row">
+    <nav class="navbar navbar-expand-lg d-flex flex-row">
         <div class="container">
             <div class="d-flex col-md-6 nav">
                 <h1>Emily Wirtz</h1>
             </div>
-            <ul class="nav col-md-6 justify-content-end">
+        </div>
+        <div class="collapse navbar-collapse">
+            <ul class="navbar-nav col-md-6 justify-content-end">
                 <li class="nav-item">
                     <a class="nav-link" href="./index.html">About</a>
                 </li>
@@ -27,15 +29,17 @@
                 </li>
             </ul>
         </div>
-    </header>
+    </nav>
 
-    <div class="container row" id="about-me">
-        <div>
+    <div class="container" id="about-me">
+        <div class="row">
             <h2>About Me</h2>
+        </div>
             <hr>
-            <img src="./assets/biopic2.jpg" alt="hi i'm emily" />  
-            <section id="blurb">
-                <p>Hi my name is Emily! I'm 32 years old, and I am from Kansas City, Missouri. I have lived in other cities like Omaha, San Francisco, and Playa Potrero, Costa Rica. I love to travel; next on my bucket list is Bora Bora, and next on my real life list is Chicago. I have a dog named Nellie, and two cats named Sadie and Corona. I have a younger brother, who is almost 30 and works as an accountant. I hope to find a remote job with my coding skills, so that I can be wherever I want to be and still be able to work. Hard pass on a 10 days of PTO per year policy.</p>
+        <section class="row">
+            <img class="col-md-6 col-sm-12 ml-3 float-md-left rounded p-0" style="max-width: 225px; max-height: 400px;" src="./assets/biopic2.jpg" alt="hi i'm emily" />  
+            <section class="col-md-6 col-sm-12 float-md-left p-0 ml-5" style="width: 500px;" id="blurb">
+                <p>Hi my name is Emily! I'm 32 years old, and I'm from Kansas City, Missouri. I have lived in other cities like Omaha, San Francisco, and Playa Potrero, Costa Rica. I love to travel; next on my bucket list is Bora Bora, and next on my real life list is Chicago. I have a dog named Nellie, and two cats named Sadie and Corona. I have a younger brother, who is almost 30 and works as an accountant. I hope to find a remote job with my coding skills, so that I can be wherever I want to be and still be able to work. Hard pass on a 10 days of PTO per year policy.</p>
                 <br>
                 <p>Things I love are:</p>
                 <ul>
@@ -46,7 +50,7 @@
                     <li>Making Spotify playlists for myself and friends, newest one is called "quarantunes!"</li>
                 </ul>
             </section>
-        </div>
+        </section>
     </div>
 </body>
 </html>
