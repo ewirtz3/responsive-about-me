@@ -23,7 +23,7 @@ header h1 {
     text-transform: lowercase;
 }
 
-header nav {
+.navbar {
     font-family: 'Quicksand', sans-serif;
     color: lightslategrey;
     padding: 10px;
