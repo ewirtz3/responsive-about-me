@@ -38,6 +38,7 @@ body {
     font-family: 'Baloo Chettan 2', cursive;
     color: darkviolet;
     background-color: white;
+    overflow: auto;
 }
 
 .card-body {
