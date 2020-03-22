@@ -9,7 +9,6 @@ body {
 .navbar {
     max-height: 80px;
     background-color: white;
-    overflow: auto;
 }
 
 .navbar h1 {
