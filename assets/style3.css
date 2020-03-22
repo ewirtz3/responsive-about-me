@@ -41,6 +41,10 @@ body {
     overflow: auto;
 }
 
+.card {
+    margin: 20px;
+}
+
 .card-body {
     text-align: center;
     background-color: darkviolet;
