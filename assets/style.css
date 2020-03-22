@@ -30,7 +30,7 @@ body {
 
 #about-me {
     width: 800px;
-    height: 650px;
+    max-height: 650px;
     border: 1px solid gray;
     margin: 20px;
     background-color: white;
@@ -49,8 +49,8 @@ div h2 {
 #blurb {
     color: black;
     font-family: 'Quicksand', sans-serif;
-    float: right;
-    width: 500px;
+    float: left;
+    max-width: 500px;
     margin-left: 20px;
 }
 
