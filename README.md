@@ -1,15 +1,29 @@
-# UNIT 02 CSS & Bootstrap HW: Responsive Portfolio
+# CSS & Bootstrap Mobile Responsive Portfolio
 
-## Title: emily wirtz portfolio
+## Description
 
-**Requirements:**
-1. Site must have a navbar, a responsive layout, and responsive images
-2. Navbar must be consistent on each page and contain links to About, Contact, and Portfolio pages.
-3. All links must work.
-4. Each page must have valid and correct HTML, and you must use semantic HTML.
-5. Site must contain personalized info such as a bio, name, images, etc.
-6. Must utilize Bootstrap components and grid system.
-7. Site must be responsive: on an 'xs' screen, content should take up the entire screen. On 'sm' and larger screens, there should be some margins on the left and ride sides of the screen.
+This is a simple HTML portfolio that focuses on utilizing Bootstrap and ensuring mobile responsiveness.
 
+**Link to project:** https://ewirtz3.github.io/responsive-about-me/
 
-**Link to Portfolio Site:** https://ewirtz3.github.io/responsive-about-me/
+<img src="https://img.shields.io/github/last-commit/ewirtz3/responsive-about-me?style=for-the-badge"/>
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+
+## Installation
+
+There are no steps for installation.
+
+## Usage
+
+Click the link above to view the site!
+
+## License
+
+MIT License Copyright(c) 2020 Emily Wirtz
+
+If you have any questions, please contact me at GitHub username <a href="https://github.com/ewirtz3">ewirtz3</a>
